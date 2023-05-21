@@ -2,7 +2,7 @@
 A lightweight Android app that keeps track of your to-do items.
 
 ## Appearance
-![](gifs/Appearance.gif)
+<img src="gif/Appearance.gif" width="250" height="250"/>
 
 ## Adding Items
 ![](gifs/Add.gif)
