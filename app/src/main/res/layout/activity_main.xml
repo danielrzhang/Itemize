@@ -20,7 +20,10 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:inputType="textCapWords|textCapSentences"
-        android:hint="Enter Todo Item"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:hint="Enter Item"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnAddTodo"
         app:layout_constraintStart_toStartOf="parent" />
@@ -29,7 +32,11 @@
         android:id="@+id/btnAddTodo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Add Todo"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Add"
+        android:backgroundTint="#50C878"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnDeleteDoneTodos" />
 
@@ -37,7 +44,11 @@
         android:id="@+id/btnDeleteDoneTodos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Delete Done"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Remove"
+        android:backgroundTint="#D22B2B"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
