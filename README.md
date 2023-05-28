@@ -6,7 +6,7 @@ This app allows you to effortlessly add tasks by typing them into a text field. 
 In summary, Itemize is a comprehensive and efficient task management tool that helps you stay organized, prioritize effectively, and accomplish your goals with ease. Itemize was coded with Android Studio and written in Kotlin, and supports versions of Android 5.0 or higher.
 
 ## Appearance
-<img src="gifs/Appearance.gif" width="48">
+<img src="gifs/Appearance.gif" width="200">
 
 ## Adding Items
 ![](gifs/Add.gif)
