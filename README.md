@@ -7,6 +7,7 @@ In summary, Itemize is a comprehensive and efficient task management tool that h
 
 Itemize was coded in Android Studio and written in Kotlin, and supports versions of Android 5.0 or higher.
 
+
 Appearance | Adding Item | Removing Item
 --- | --- | ---
 <img src="gifs/Appearance.gif" width="150px"> | <img src="gifs/Add.gif" width="150px"> | <img src="gifs/Remove.gif" width="150px">
